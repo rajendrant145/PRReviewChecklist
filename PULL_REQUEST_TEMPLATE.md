@@ -1,4 +1,4 @@
-# What kind of change does this PR introduce? (check at least one)
+### What kind of change does this PR introduce? (check at least one)
 
 - [ ] Defect Fix
 - [ ] New Feature
@@ -6,7 +6,7 @@
 - [ ] Build related
 - [ ] Other, Please describe: 
 
-# Does this PR fulfills following requirements?
+### Does this PR fulfills following requirements?
 
 - [ ] Font-size variable is used If SCSS file has changes for Font-size attribute
 - [ ] Font-family variable is used If SCSS file has changes for Font-family attribute
