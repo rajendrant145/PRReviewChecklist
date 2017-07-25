@@ -1,2 +1,4 @@
-[] Check Font-size variable is used on .SCSS file if color attribute has added 
-[] Check Color variable is used on .SCSS file if color attribute has added
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
